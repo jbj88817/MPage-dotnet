@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Ch09: Shopping Cart</title>
+    <title>Yuan's homepage</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/site.css" rel="stylesheet" />
@@ -22,7 +22,7 @@
                 <nav>
                     <asp:BulletedList ID="blNav" runat="server" DisplayMode="HyperLink" 
                         CssClass="nav nav-pills nav-stacked">
-                        <asp:ListItem Value="~/Order.aspx">Home</asp:ListItem>
+                        <asp:ListItem Value="~/Index.aspx">Home</asp:ListItem>
                         <asp:ListItem Value="~/Cart.aspx">Cart</asp:ListItem>
                         <asp:ListItem Value="~/Products.aspx">Products</asp:ListItem>
                         <asp:ListItem Value="~/ContactUs.aspx">Contact</asp:ListItem>

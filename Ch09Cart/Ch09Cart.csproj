@@ -68,9 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ContactUs.aspx" />
-    <Content Include="Images\banner.gif" />
-    <Content Include="Images\bt.gif" />
-    <Content Include="Images\Products\banner.gif" />
+    <Content Include="Images\bt.png" />
     <Content Include="packages.config" />
     <Content Include="Products.aspx" />
     <Content Include="Scripts\jquery-1.9.1.min.map" />
